@@ -1,0 +1,10 @@
+{
+  "name": "bag-client",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "main-bower-files": "^2.6.2"
+  }
+}
